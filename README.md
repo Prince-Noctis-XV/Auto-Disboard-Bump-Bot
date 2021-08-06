@@ -14,4 +14,4 @@ Note : This is a Selfbot, And Selfbots Are Against Discord Terms of Services. (U
 ## Things To Do
 - Fork This Repo
 - Star This Repo
-- Join [Devs Cafe](https://discord.gg/devscafe) For a Better Bot
+- Join [Devs Cafe](https://discord.gg/devscafe) For a Better Bot 
